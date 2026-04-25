@@ -6,13 +6,6 @@ Welcome to my GitHub! I'm a **B.Tech CSE graduate** from Jaipur, Rajasthan, pass
 
 I'm a full-stack developer and tech enthusiast with expertise in **Linux systems, virtualization, and backend development**. I love tackling complex problems, learning new technologies, and contributing to projects that make a real impact.
 
-- 🔭 Currently working on **AI-powered healthcare solutions and blockchain projects**
-- 🌱 Continuously learning about **system architecture, cloud technologies, and emerging frameworks**
-- 👯 Open to collaborating on **open-source projects and innovative tech solutions**
-- 💬 Ask me about **Linux, Python, system design, or tech best practices**
-- 📫 Reach me at: **LinkedIn, Twitter, or GitHub DMs**
-- ⚡ Fun fact: **I'm passionate about building solutions that bridge technology and real-world problems!**
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -21,9 +14,6 @@ I'm a full-stack developer and tech enthusiast with expertise in **Linux systems
 ### Specializations
 - **Linux Administration** (Ubuntu, Arch)
 - **Virtualization & VMware**
-- **Backend Development**
-- **Smart Contracts & Blockchain**
-- **AI/ML Applications**
 
 ### Tools & Platforms
 - Git & GitHub
@@ -39,7 +29,7 @@ An innovative platform designed to make scholarship discovery and application si
 - **Impact:** Simplifying the scholarship journey for students
 - **Status:** Active & Maintained
 
-### [Swasthya-Neetl](https://github.com/mitarthpathak/Swasthya-Neetl)
+### [Swasthya-Neeti](https://github.com/mitarthpathak/Swasthya-Neetl)
 An AI-powered triage chatbot specifically designed for rural healthcare. Uses symptom-based questions and rule-based logic to guide users toward self-care, doctor visits, or emergency care.
 - **Tech Stack:** AI/ML, Python, TypeScript
 - **Impact:** Bringing healthcare guidance to underserved communities
@@ -56,7 +46,7 @@ A TypeScript-based project focused on intelligent solutions.
 - **Tech Stack:** TypeScript
 - **Status:** In Development
 
-### [Run-Neetl](https://github.com/mitarthpathak/Run-Neetl)
+### [Run-Neeti](https://github.com/mitarthpathak/Run-Neetl)
 An active project exploring performance optimization and system efficiency.
 - **Status:** Active
 
