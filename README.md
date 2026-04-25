@@ -21,29 +21,6 @@ I'm a full-stack developer and tech enthusiast with expertise in **Linux systems
 - Cloud Infrastructure
 - Database Design
 
-## 🎯 Featured Projects
-
-### [ScholarGuru](https://github.com/mitarthpathak/ScholarGuru)
-An innovative platform designed to make scholarship discovery and application simple, transparent, and effective. Helps students find and apply for scholarships with ease.
-- **Tech Stack:** HTML, JavaScript
-- **Impact:** Simplifying the scholarship journey for students
-- **Status:** Active & Maintained
-
-### [Swasthya-Neet1](https://github.com/mitarthpathak/Swasthya-Neetl)
-An AI-powered triage chatbot specifically designed for rural healthcare. Uses symptom-based questions and rule-based logic to guide users toward self-care, doctor visits, or emergency care.
-- **Tech Stack:** AI/ML, Python, TypeScript
-- **Impact:** Bringing healthcare guidance to underserved communities
-- **Status:** Active Development
-
-### [SAGACITY](https://github.com/mitarthpathak/SAGACITY)
-A TypeScript-based project focused on intelligent solutions.
-- **Tech Stack:** TypeScript
-- **Status:** In Development
-
-### [Run-Neet1](https://github.com/mitarthpathak/Run-Neetl)
-An active project exploring performance optimization and system efficiency.
-- **Status:** Active
-
 ## 📊 GitHub Activity & Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mitarthpathak&show_icons=true&theme=dark&hide_border=true)
