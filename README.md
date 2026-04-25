@@ -29,24 +29,18 @@ An innovative platform designed to make scholarship discovery and application si
 - **Impact:** Simplifying the scholarship journey for students
 - **Status:** Active & Maintained
 
-### [Swasthya-Neeti](https://github.com/mitarthpathak/Swasthya-Neetl)
+### [Swasthya-Neet1](https://github.com/mitarthpathak/Swasthya-Neetl)
 An AI-powered triage chatbot specifically designed for rural healthcare. Uses symptom-based questions and rule-based logic to guide users toward self-care, doctor visits, or emergency care.
 - **Tech Stack:** AI/ML, Python, TypeScript
 - **Impact:** Bringing healthcare guidance to underserved communities
 - **Status:** Active Development
-
-### [Lottery---Raffle-Contract](https://github.com/mitarthpathak/Lottery---Raffle-Contract)
-Smart contract implementation for transparent lottery and raffle systems on blockchain.
-- **Tech Stack:** Rust, Blockchain
-- **Key Features:** Transparent, secure, and decentralized lottery mechanism
-- **Status:** Active
 
 ### [SAGACITY](https://github.com/mitarthpathak/SAGACITY)
 A TypeScript-based project focused on intelligent solutions.
 - **Tech Stack:** TypeScript
 - **Status:** In Development
 
-### [Run-Neeti](https://github.com/mitarthpathak/Run-Neetl)
+### [Run-Neet1](https://github.com/mitarthpathak/Run-Neetl)
 An active project exploring performance optimization and system efficiency.
 - **Status:** Active
 
@@ -81,13 +75,6 @@ I'm always excited to connect with fellow developers, collaborate on interesting
 - 🎤 **Tech discussions** and knowledge sharing
 - 📚 **Mentoring** aspiring developers
 
-## 🌟 My Philosophy
-
-> *"Building strong tech foundations and creating solutions that make a real difference in people's lives."*
-
-I believe in clean code, continuous learning, and the power of technology to solve real-world problems. Every line of code is an opportunity to create something meaningful.
-
----
 
 ### 📈 Current Focus
 
