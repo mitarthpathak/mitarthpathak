@@ -9,7 +9,7 @@ I'm a full-stack developer and tech enthusiast with expertise in **Linux systems
 ## 🛠️ Tech Stack
 
 ### Languages
-- **Python** | **C** | **TypeScript** | **Rust** | **HTML**
+- **Python** | **JAVA** | **C** | **TypeScript** | **Rust** | **HTML**
 
 ### Specializations
 - **Linux Administration** (Ubuntu, Arch)
