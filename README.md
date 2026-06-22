@@ -8,14 +8,15 @@ I'm a full-stack developer and tech enthusiast with expertise in **Linux systems
 
 ## 🛠️ Tech Stack
 
-### Languages
-- **Python** | **JAVA** | **C** | **TypeScript** | **Rust** | **HTML**
+| Languages | Tools & Platforms |
+|------------|------------------|
+| Python | Git & GitHub |
+| Java | Docker & Containerization |
+| C | Cloud Infrastructure |
+| TypeScript | Database Design |
+| Rust | Linux |
+| HTML | Virtualization |
 
-### Tools & Platforms
-- Git & GitHub
-- Docker & Containerization
-- Cloud Infrastructure
-- Database Design
 
 ## 📊 GitHub Activity & Stats
 
