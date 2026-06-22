@@ -11,10 +11,6 @@ I'm a full-stack developer and tech enthusiast with expertise in **Linux systems
 ### Languages
 - **Python** | **JAVA** | **C** | **TypeScript** | **Rust** | **HTML**
 
-### Specializations
-- **Linux Administration** (Ubuntu, Arch)
-- **Virtualization & VMware**
-
 ### Tools & Platforms
 - Git & GitHub
 - Docker & Containerization
