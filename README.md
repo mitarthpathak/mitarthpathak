@@ -2,10 +2,6 @@
 
 Welcome to my GitHub! I'm a **B.Tech CSE graduate** from Jaipur, Rajasthan, passionate about building strong tech foundations and creating innovative solutions in software development and infrastructure.
 
-## 🚀 About Me
-
-I'm a full-stack developer and tech enthusiast with expertise in **Linux systems, virtualization, and backend development**. I love tackling complex problems, learning new technologies, and contributing to projects that make a real impact.
-
 ## 🛠️ Tech Stack
 
 | Languages | Tools & Platforms |
