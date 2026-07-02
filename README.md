@@ -1,60 +1,86 @@
-# Hey there! 👋 I'm Mitarth Pathak
+<div align="center">
 
-Welcome to my GitHub! I'm a **B.Tech CSE graduate** from Jaipur, Rajasthan, passionate about building strong tech foundations and creating innovative solutions in software development and infrastructure.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Mitarth%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20things,%20breaking%20things,%20learning%20both%20ways&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://linkedin.com/in/mitarth-pathak">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/mpathakG207">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://instagram.com/_mitarth">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+## 🚀 About Me
+
+```yaml
+name: Mitarth Pathak
+role: B.Tech CSE Student (Batch 2025–2029)
+college: Arya College of Engineering and Technology, Jaipur
+affiliated_to: RTU Kota
+location: Jaipur, Rajasthan, India
+philosophy: "Ship first, theorize later"
+currently_exploring: [Web Dev, Cybersecurity, Systems]
+status: 🟢 Open to internships
+```
+
+I'm a CS undergrad who'd rather vibe-code a working prototype at 2 AM than read another chapter of theory first. I build full-stack projects, dig into offensive security tooling for fun, and I'm currently deep in a portfolio-building phase — SVG animations, scroll-triggered interactions, the whole aesthetic rabbit hole.
+
+## 🧩 Featured Projects
+
+| Project | Description | Link |
+|---|---|---|
+| 🩺 **Sagacity** | AI-powered medical chatbot | — |
+| 🏃 **Run-Neeti** | Full-stack web application | [run-neeti.vercel.app](https://run-neeti.vercel.app) |
+| 🧘 **Swasthya-Neeti** | Health & wellness platform | [swasthya-neeti.vercel.app](https://swasthya-neeti.vercel.app) |
 
 ## 🛠️ Tech Stack
 
-| Languages | Tools & Platforms |
-|------------|------------------|
-| Python | Git & GitHub |
-| Java | Docker & Containerization |
-| C | Cloud Infrastructure |
-| TypeScript | Database Design |
-| Rust | Linux |
-| HTML | Virtualization |
+<div align="center">
 
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,c,typescript,rust,html,css,js"/>
 
-## 📊 GitHub Activity & Stats
+**Frameworks & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,git,github,docker,linux,vscode"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mitarthpathak&show_icons=true&theme=dark&hide_border=true)
+**Security & Systems**
+<br/>
+<img src="https://skillicons.dev/icons?i=kali,bash"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mitarthpathak&layout=compact&theme=dark&hide_border=true)
+</div>
 
-**2026 Highlights:**
-- 33 contributions in the last year
-- Active across multiple tech stacks and domains
-- Consistent development and learning journey
+## 📊 GitHub Stats
 
-## 🤝 Let's Connect
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mitarthpathak&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitarthpathak&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 
-I'm always excited to connect with fellow developers, collaborate on interesting projects, and share knowledge!
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mitarthpathak&theme=radical&hide_border=true&background=0D1117"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mitarthpathak)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mitarth-pathak)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mpathakG207)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_mitarth)
-
-📍 **Based in:** Jaipur, Rajasthan, India  
-🔗 **Profile:** 8 Followers • 131 LinkedIn Connections
+</div>
 
 ## 💡 What I'm Open To
 
-- 🤝 **Collaborations** on innovative tech projects
-- 💼 **Freelance opportunities** in backend development and system design
-- 🔓 **Open-source contributions** in relevant domains
-- 🎤 **Tech discussions** and knowledge sharing
-- 📚 **Mentoring** aspiring developers
+- 🤝 Collaborating on interesting web / full-stack projects
+- 💼 Internship opportunities in software development
+- 🔓 Open-source contributions
+- 🎤 Tech discussions — especially frontend design, AI-assisted dev, and cybersecurity
+- 📚 Learning from and building alongside other devs
 
+<div align="center">
 
-### 📈 Current Focus
+### 📫 Let's Connect
 
-- Expanding expertise in **cloud infrastructure and distributed systems**
-- Exploring **AI applications** in healthcare and social impact
-- Contributing to **open-source projects**
-- Building **scalable backend solutions**
+Always up for talking tech, comparing notes on AI tooling, or just nerding out over a good UI animation.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-*Last updated: April 2026*
+*Last updated: July 2026*
 
-*Feel free to reach out for collaborations, questions, or just to chat about tech! 🚀*
+</div>
