@@ -27,7 +27,7 @@ currently_exploring: [Web Dev, Cybersecurity, Systems]
 status: 🟢 Open to internships
 ```
 
-I'm a CS undergrad who'd rather vibe-code a working prototype at 2 AM than read another chapter of theory first. I build full-stack projects, dig into offensive security tooling for fun, and I'm currently deep in a portfolio-building phase — SVG animations, scroll-triggered interactions, the whole aesthetic rabbit hole.
+I make cool stuff for now(learning btw).
 
 ## 🧩 Featured Projects
 
