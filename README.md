@@ -23,7 +23,7 @@ college: Arya College of Engineering and Technology, Jaipur
 affiliated_to: RTU Kota
 location: Jaipur, Rajasthan, India
 philosophy: "Ship first, theorize later"
-currently_exploring: [Web Dev, Cybersecurity, Systems]
+currently_exploring: [Web Dev, Cybersecurity, Systems, BackEnd Development]
 status: 🟢 Open to internships
 ```
 
