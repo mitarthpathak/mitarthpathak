@@ -23,7 +23,7 @@ college: Arya College of Engineering and Technology, Jaipur
 affiliated_to: RTU Kota
 location: Jaipur, Rajasthan, India
 philosophy: "Ship first, theorize later"
-currently_exploring: [Web Dev, Cybersecurity, Systems, BackEnd Development]
+currently_exploring: [BackEnd Development, Web Dev, Database Management, JWT Authentication]
 status: 🟢 Open to internships
 ```
 
@@ -67,7 +67,7 @@ I make cool stuff for now(learning btw).
 
 ## 💡 What I'm Open To
 
-- 🤝 Collaborating on interesting web / full-stack projects
+- 🤝 Collaborating on interesting back-end / full-stack projects
 - 💼 Internship opportunities in software development
 - 🔓 Open-source contributions
 - 🎤 Tech discussions — especially frontend design, AI-assisted dev, and cybersecurity
