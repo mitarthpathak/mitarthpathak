@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Mitarth%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20things,%20breaking%20things,%20learning%20both%20ways&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/mitarth-pathak">
@@ -12,10 +11,16 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&duration=3000&color=A594F9&center=true&vCenter=true&width=520&height=40&lines=Backend+dev+in+progress+%F0%9F%9A%80;Spring+Boot+6+%7C+Spring+Security+%7C+JWT;PostgreSQL+%7C+System+Design;Exploring+Cybersecurity+%F0%9F%94%93;Open+to+Internships+%F0%9F%9F%A2"/>
+
+<img src="https://komarev.com/ghpvc/?username=mitarthpathak&color=a594f9&style=flat-square&label=Profile+Views"/>
 </div>
 
-## 🚀 About Me
+---
 
+## 🚀 About Me
 ```yaml
 name: Mitarth Pathak
 role: B.Tech CSE Student (Batch 2025–2029)
@@ -23,12 +28,25 @@ college: Arya College of Engineering and Technology, Jaipur
 affiliated_to: RTU Kota
 location: Jaipur, Rajasthan, India
 philosophy: "Ship first, theorize later"
-currently_exploring: [BackEnd Development, JWT Authentication, Web Dev, Database Management]
+currently_exploring: [Spring Boot 6, Spring Security, JWT Authentication, PostgreSQL, BackEnd Development, Web Dev, Database Management]
 status: 🟢 Open to internships
 ```
 
-I make cool stuff for now(learning btw).
-I am familiar to back-end designing and SpringBoot. 
+I make cool stuff for now (learning btw).
+Right now I'm deep in back-end territory — **Spring Boot 6**, **Spring Security**, **JWT-based auth**, and **PostgreSQL**.
+
+---
+
+## 🔧 Currently Building With
+
+<div align="center">
+<img src="https://img.shields.io/badge/Spring_Boot_6-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
+
+---
 
 ## 🧩 Featured Projects
 
@@ -38,13 +56,19 @@ I am familiar to back-end designing and SpringBoot.
 | 🏃 **Run-Neeti** | Full-stack web application | [run-neeti.vercel.app](https://run-neeti.vercel.app) |
 | 🧘 **Swasthya-Neeti** | Health & wellness platform | [swasthya-neeti.vercel.app](https://swasthya-neeti.vercel.app) |
 
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,c,typescript,rust,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,rust,html,css,js"/>
+
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,postgres"/>
 
 **Frameworks & Tools**
 <br/>
@@ -56,15 +80,21 @@ I am familiar to back-end designing and SpringBoot.
 
 </div>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=mitarthpathak&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitarthpathak&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitarthpathak&theme=radical&hide_border=true&background=0D1117"/>
 
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mitarthpathak&theme=radical&no-frame=true&row=1&column=7"/>
 </div>
+
+---
 
 ## 💡 What I'm Open To
 
