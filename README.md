@@ -51,24 +51,28 @@ I am familiar to back-end designing and SpringBoot.
 | 🏃 **Run-Neeti** | Full-stack web application | [run-neeti.vercel.app](https://run-neeti.vercel.app) |
 | 🧘 **Swasthya-Neeti** | Health & wellness platform | [swasthya-neeti.vercel.app](https://swasthya-neeti.vercel.app) |
 
+ 
 ## 🛠️ Tech Stack
-
+ 
 <div align="center">
-
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,c,typescript,rust,html,css,js"/>
-
+<img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,rust,html,css,js"/>
+ 
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,postgres"/>
+ 
 **Frameworks & Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,git,github,docker,linux,vscode"/>
-
+ 
 **Security & Systems**
 <br/>
 <img src="https://skillicons.dev/icons?i=kali,bash"/>
-
+ 
 </div>
-
+---
 ## 📊 GitHub Stats
 
 <div align="center">
