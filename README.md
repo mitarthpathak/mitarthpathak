@@ -24,7 +24,7 @@ affiliated_to: RTU Kota
 location: Jaipur, Rajasthan, India
 philosophy: "Ship first, theorize later"
 currently_exploring: [BackEnd Development, JWT Authentication, Web Dev, Database Management]
-status: 🟢 Open to internships
+status: 🟢 currently unemployed
 ```
 
 I make cool stuff for now(learning btw).
