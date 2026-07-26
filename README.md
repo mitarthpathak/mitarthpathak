@@ -47,9 +47,9 @@ I am familiar to back-end designing and SpringBoot.
 
 | Project | Description | Link |
 |---|---|---|
-| 🩺 **Sagacity** | AI-powered medical chatbot | — |
 | 🏃 **Run-Neeti** | Full-stack web application | [run-neeti.vercel.app](https://run-neeti.vercel.app) |
 | 🧘 **Swasthya-Neeti** | Health & wellness platform | [swasthya-neeti.vercel.app](https://swasthya-neeti.vercel.app) |
+| 🩺 **Sagacity** | AI-powered medical chatbot | — |
 
 ---
  
