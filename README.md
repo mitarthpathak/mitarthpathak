@@ -27,6 +27,7 @@ currently_exploring: [BackEnd Development, JWT Authentication, Web Dev, Database
 status: 🟢 currently unemployed
 ```
 
+Currently a Backend Developer (SpringBoot)
 I make cool stuff for now(learning btw).
 I am familiar to back-end designing and SpringBoot. 
 
