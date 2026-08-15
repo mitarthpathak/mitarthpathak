@@ -26,7 +26,7 @@ Currently a Backend Developer (SpringBoot)
 I make cool stuff for now(learning btw).
 I am familiar to back-end designing and SpringBoot.
 
-Currently interning at **Craftory Studio** (a Jaipur-based creative/digital growth startup), working on the tech side — but still actively looking for full-time opportunities, so let's connect if you're hiring!
+Currently interning at **Craftory Studio** (a Jaipur-based creative/digital growth startup) as the Web developer, working on the tech side — but still actively looking for full-time opportunities, so let's connect if you're hiring!
 
 ---
 ## 🔧 Currently Building With
