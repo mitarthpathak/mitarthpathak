@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Mitarth%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20things,%20breaking%20things,%20learning%20both%20ways&descAlignY=55&descSize=18" width="100%"/>
 
+<img src="https://github.com/mitarthpathak.png" width="120" style="border-radius:50%;"/>
+
+<br/><br/>
+
 <a href="https://linkedin.com/in/mitarth-pathak">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -11,11 +15,6 @@
 <a href="https://instagram.com/_mitarth">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=mitarthpathak&style=for-the-badge&color=6c11ff&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/mitarthpathak?style=for-the-badge&color=6c11ff&labelColor=black"/>
 
 </div>
 
