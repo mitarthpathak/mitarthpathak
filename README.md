@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Mitarth%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20things,%20breaking%20things,%20learning%20both%20ways&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://github.com/mitarthpathak.png" width="120" style="border-radius:50%;"/>
 
 <br/><br/>
 
@@ -50,7 +49,7 @@ Interning at **Craftory Studio**, a Jaipur-based creative/digital growth startup
 </td>
 <td width="40%" valign="center" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mitarthpathak&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6c11ff&icon_color=6c11ff" width="100%"/>
+<img src="https://github.com/mitarthpathak.png" width="100%"/>
 
 </td>
 </tr>
