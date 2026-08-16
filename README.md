@@ -57,6 +57,37 @@ Interning at **Craftory Studio**, a Jaipur-based creative/digital growth startup
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6c11ff&height=2&width=100%25" width="100%"/>
 
+## 💼 Experience
+
+<div align="center">
+
+<table>
+<tr>
+<th>Role</th>
+<th>Company</th>
+<th>Duration</th>
+<th>Location</th>
+</tr>
+<tr>
+<td>🌐 <b>Web Developer</b></td>
+<td>Craftory Studio</td>
+<td>Ongoing</td>
+<td>Jaipur, India · On-site</td>
+</tr>
+<tr>
+<td>📊 <b>Big Data Analyst (Intern)</b></td>
+<td>IBM</td>
+<td>Jun 2026 - Aug 2026 · 3 mos</td>
+<td>Jaipur, India · Remote</td>
+</tr>
+</table>
+
+Completed the **IBM Big Data Analyst internship**, earning a completion certificate with a focus on **Large-scale Data Processing** and **Large-scale Data Analysis**.
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6c11ff&height=2&width=100%25" width="100%"/>
+
 ## 🔧 Currently Building With
 
 <div align="center">
