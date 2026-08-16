@@ -72,7 +72,7 @@ Interning at **Craftory Studio**, a Jaipur-based creative/digital growth startup
 <td>🌐 <b>Web Developer</b></td>
 <td>Craftory Studio</td>
 <td>Ongoing</td>
-<td>Jaipur, India · On-site</td>
+<td>Jaipur, India · Remote</td>
 </tr>
 <tr>
 <td>📊 <b>Big Data Analyst (Intern)</b></td>
