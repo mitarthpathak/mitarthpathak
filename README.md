@@ -129,7 +129,7 @@ Completed the **IBM Big Data Analyst internship**, earning a completion certific
   
 <tr>
 <td>🏃 <b>Run-Neeti</b></td>
-<td>Full-stack web application</td>
+<td>Text to Graph Generator</td>
 <td><a href="https://run-neeti.vercel.app">run-neeti.vercel.app</a></td>
 </tr>
 <tr>
