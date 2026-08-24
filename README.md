@@ -122,14 +122,15 @@ Completed the **IBM Big Data Analyst internship**, earning a completion certific
 <td>—</td>
 </tr>
 <tr>
-<td>🏃 <b>Run-Neeti</b></td>
-<td>Full-stack web application</td>
-<td><a href="https://run-neeti.vercel.app">run-neeti.vercel.app</a></td>
-</tr>
-<tr>
 <td>🧘 <b>Swasthya-Neeti</b></td>
 <td>Health & wellness platform</td>
 <td><a href="https://swasthya-neeti.vercel.app">swasthya-neeti.vercel.app</a></td>
+</tr>
+  
+<tr>
+<td>🏃 <b>Run-Neeti</b></td>
+<td>Full-stack web application</td>
+<td><a href="https://run-neeti.vercel.app">run-neeti.vercel.app</a></td>
 </tr>
 <tr>
 <td>🩺 <b>Sagacity</b></td>
