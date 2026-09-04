@@ -44,7 +44,7 @@ status: 🟢 Interning @ Craftory Studio (Web Dev) | Open to full-time
 
 Currently working as a **Backend Developer (Spring Boot)** — still learning, still shipping. Comfortable with back-end design and Spring Boot fundamentals.
 
-Interning at **Craftory Studio**, a Jaipur-based creative/digital growth startup, as a **Web Developer** — engaging with clients on the tech side. Still actively hunting for a **full-time role**, so if you're hiring, let's talk 👇
+Intern at **Craftory Studio**, a Jaipur-based creative/digital growth startup, as a **Web Developer** — engaging with clients on the tech side. Still actively hunting for a **full-time role**, so if you're hiring, let's talk 👇
 
 </td>
 <td width="40%" valign="center" align="center">
