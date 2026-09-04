@@ -113,7 +113,7 @@ Completed the **IBM Big Data Analyst internship**, earning a completion certific
 </tr>
 <tr>
 <td>🗣️<b>Yap & Render</b></td>
-<td>Voice to ISL real time interpreter</td>
+<td>Voice to 3D animated ISL real time interpreter</td>
 <td><a href="https://yap-render.vercel.app">yap-render.vercel.app</a></td>
 </tr>
 <tr>
