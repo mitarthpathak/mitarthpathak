@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Mitarth%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20things,%20breaking%20things,%20learning%20both%20ways&descAlignY=55&descSize=18" width="100%"/>
 
-<br/>
-
 
 <br/><br/>
 
@@ -17,12 +15,9 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=mitarthpathak&label=Profile%20Views&color=6c11ff&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/mitarthpathak?label=Followers&style=for-the-badge&color=6c11ff"/>
-
 </div>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6c11ff&height=2&width=100%25" width="100%"/>
 
@@ -30,54 +25,35 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
-<pre>
-<b>mitarth@portfolio</b>:~$ whoami --verbose
-
-  <b>Name</b> ........... Mitarth Pathak
-  <b>Role</b> ........... B.Tech CSE Student (Batch 2025–2029)
-  <b>College</b> ........ Arya College of Engineering & Technology, Jaipur
-  <b>Affiliated to</b> .. RTU Kota
-  <b>Location</b> ....... Jaipur, Rajasthan, India
-  <b>Philosophy</b> ..... "Ship first, theorize later"
-  <b>Status</b> ......... 🟢 Interning @ Craftory Studio | Open to full-time
-
-  <b>Exploring</b> ...... Backend Dev, JWT Auth, Web Dev, DB Management
-</pre>
+```yaml
+name: Mitarth Pathak
+role: B.Tech CSE Student (Batch 2025–2029)
+college: Arya College of Engineering and Technology, Jaipur
+affiliated_to: RTU Kota
+location: Jaipur, Rajasthan, India
+philosophy: "Ship first, theorize later"
+currently_exploring:
+  - Backend Development
+  - JWT Authentication
+  - Web Dev
+  - Database Management
+status: 🟢 Interning @ Craftory Studio (Web Dev) | Open to full-time
+```
 
 Currently working as a **Backend Developer (Spring Boot)** — still learning, still shipping. Comfortable with back-end design and Spring Boot fundamentals.
 
 Intern at **Craftory Studio**, a Jaipur-based creative/digital growth startup, as a **Web Developer** — engaging with clients on the tech side. Still actively hunting for a **full-time role**, so if you're hiring, let's talk 👇
 
 </td>
-<td width="42%" valign="middle" align="center">
+<td width="40%" valign="center" align="center">
 
-<img src="https://github.com/mitarthpathak.png" width="200" style="border-radius:50%"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🟢_Open_to_Work-success?style=for-the-badge"/>
+<img src="https://github.com/mitarthpathak.png" width="100%"/>
 
 </td>
 </tr>
 </table>
-
-<details>
-<summary><b>▸ cat contact.json</b></summary>
-<br/>
-
-```json
-{
-  "linkedin": "linkedin.com/in/mitarth-pathak",
-  "twitter": "@mpathakG207",
-  "instagram": "@_mitarth",
-  "status": "open to full-time offers",
-  "response_time": "usually < 24h"
-}
-```
-
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6c11ff&height=2&width=100%25" width="100%"/>
 
@@ -101,7 +77,7 @@ Intern at **Craftory Studio**, a Jaipur-based creative/digital growth startup, a
 <tr>
 <td>📊 <b>Big Data Analyst (Intern)</b></td>
 <td>IBM</td>
-<td>Jun 2026 – Aug 2026 · 3 mos</td>
+<td>Jun 2026 - Aug 2026 · 3 mos</td>
 <td>Jaipur, India · Remote</td>
 </tr>
 </table>
@@ -136,13 +112,13 @@ Completed the **IBM Big Data Analyst internship**, earning a completion certific
 <th>Link</th>
 </tr>
 <tr>
-<td>🗣️ <b>Yap & Render</b></td>
-<td>Voice to 3D animated ISL real-time interpreter</td>
+<td>🗣️<b>Yap & Render</b></td>
+<td>Voice to 3D animated ISL real time interpreter</td>
 <td><a href="https://yap-render.vercel.app">yap-render.vercel.app</a></td>
 </tr>
 <tr>
-<td>✅ <b>DevTask</b></td>
-<td>Task management & to-do app</td>
+<td>🩺 <b>DevTask</b></td>
+<td>Task Management & To-Do App</td>
 <td>—</td>
 </tr>
 <tr>
@@ -150,9 +126,10 @@ Completed the **IBM Big Data Analyst internship**, earning a completion certific
 <td>Health & wellness platform</td>
 <td><a href="https://swasthya-neeti.vercel.app">swasthya-neeti.vercel.app</a></td>
 </tr>
+  
 <tr>
 <td>🏃 <b>Run-Neeti</b></td>
-<td>Text to graph generator</td>
+<td>Text to Graph Generator</td>
 <td><a href="https://run-neeti.vercel.app">run-neeti.vercel.app</a></td>
 </tr>
 <tr>
@@ -200,40 +177,14 @@ Completed the **IBM Big Data Analyst internship**, earning a completion certific
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mitarthpathak&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6c11ff&icon_color=6c11ff&count_private=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitarthpathak&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6c11ff"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mitarthpathak&theme=radical&hide_border=true&background=0D1117&ring=6c11ff&fire=6c11ff"/>
 
 <br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mitarthpathak&theme=radical&hide_border=true&background=0D1117&ring=6c11ff&fire=6c11ff&currStreakLabel=6c11ff" width="49%"/>
-
-</div>
-
-<details>
-<summary align="center"><b>▸ Expand: Trophy Case</b></summary>
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-trophies.vercel.app/?username=mitarthpathak&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
-</details>
-
-<br/>
-
-<details open>
-<summary align="center"><b>▾ Full Activity Graph</b></summary>
-<br/>
-
-<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mitarthpathak&theme=react-dark&hide_border=true&bg_color=0D1117&color=6c11ff&line=6c11ff&point=ffffff" width="100%"/>
 
 </div>
-
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6c11ff&height=2&width=100%25" width="100%"/>
 
