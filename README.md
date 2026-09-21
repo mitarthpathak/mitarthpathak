@@ -4,9 +4,6 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C11FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%40+Craftory+Studio;Spring+Boot+%2B+JWT+%2B+PostgreSQL;Shipping+first%2C+theorizing+later;Open+to+full-time+opportunities" alt="Typing SVG" />
-</a>
 
 <br/><br/>
 
