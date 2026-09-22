@@ -1,0 +1,28 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="triGrid" width="46" height="40" patternUnits="userSpaceOnUse">
+      <path d="M23 0 L46 40 L0 40 Z" fill="none" stroke="#1c2a52" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1330"/>
+      <stop offset="100%" stop-color="#101c44"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="260" fill="url(#bgGrad)"/>
+  <rect width="900" height="260" fill="url(#triGrid)" opacity="0.5"/>
+
+  <rect x="0" y="0" width="900" height="34" fill="#05070f"/>
+  <text x="20" y="22" font-family="Consolas, Menlo, monospace" font-size="14" font-weight="bold" fill="#ffffff">Hi there 👋, my name is Mitarth Pathak</text>
+
+  <rect x="24" y="60" width="560" height="150" rx="14" fill="#ffffff" opacity="0.06" stroke="#ffffff" stroke-opacity="0.15"/>
+  <g font-family="Consolas, Menlo, monospace" font-size="19" fill="#ffd166">
+    <text x="46" y="98">Print (<tspan fill="#ffe9a8">"Mitarth Pathak \n"</tspan>)</text>
+    <text x="46" y="128">Print (<tspan fill="#ffe9a8">"Aspiring Backend</tspan></text>
+    <text x="82" y="154"><tspan fill="#ffe9a8">Engineer \n"</tspan>)</text>
+    <text x="46" y="184">Print (<tspan fill="#ffe9a8">"Open to Full Stack</tspan></text>
+    <text x="82" y="205" fill="#ffe9a8">Opportunities\n")</text>
+  </g>
+
+  <text x="24" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#8fd694">Tools:</text>
+</svg>
