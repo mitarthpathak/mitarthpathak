@@ -15,6 +15,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
+      - name: Prepare dist directory
+        run: mkdir -p dist && chmod -R 777 dist
+
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
