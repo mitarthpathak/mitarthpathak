@@ -87,3 +87,17 @@ Intern at **Craftory Studio**, a Jaipur-based creative/digital growth startup, a
 Completed the **IBM Big Data Analyst internship**, earning a completion certificate with a focus on **Large-scale Data Processing** and **Large-scale Data Analysis**.
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6c11ff&height=2&width=100%25" width="100%"/>
+
+## 👾 Contribution Pac-Man
+
+<div align="center">
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mitarthpathak/mitarthpathak/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mitarthpathak/mitarthpathak/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mitarthpathak/mitarthpathak/output/pacman-contribution-graph.svg" width="100%"/>
+</picture>
+
+</div>
