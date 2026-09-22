@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-banner.svg" width="100%"/>
+<img src="./assets/greeting-banner.svg" width="100%"/>
 
 <br/>
 
@@ -10,6 +10,9 @@
 
 <br/><br/>
 
+<a href="https://github.com/mitarthpathak/mitarth">
+  <img src="https://img.shields.io/badge/PORTFOLIO-6C11FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 <a href="https://linkedin.com/in/mitarth-pathak">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -19,18 +22,6 @@
 <a href="https://instagram.com/_mitarth">
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6c11ff&height=2&width=100%25" width="100%"/>
-
-## 👋 Hi there
-
-<div align="center">
-
-<img src="./assets/greeting-banner.svg" width="100%"/>
 
 </div>
 
@@ -69,6 +60,16 @@ Intern at **Craftory Studio**, a Jaipur-based creative/digital growth startup, a
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6c11ff&height=2&width=100%25" width="100%"/>
 
+## 📈 Dashboard
+
+<div align="center">
+
+<img src="./assets/dashboard-card.svg" width="100%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6c11ff&height=2&width=100%25" width="100%"/>
+
 ## 💼 Experience
 
 <div align="center">
@@ -95,16 +96,6 @@ Intern at **Craftory Studio**, a Jaipur-based creative/digital growth startup, a
 </table>
 
 Completed the **IBM Big Data Analyst internship**, earning a completion certificate with a focus on **Large-scale Data Processing** and **Large-scale Data Analysis**.
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6c11ff&height=2&width=100%25" width="100%"/>
-
-## 📈 Dashboard
-
-<div align="center">
-
-<img src="./assets/dashboard-card.svg" width="100%"/>
 
 </div>
 
