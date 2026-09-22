@@ -4,13 +4,10 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C11FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%40+Craftory+Studio;Spring+Boot+%2B+JWT+%2B+PostgreSQL;Shipping+first%2C+theorizing+later;Open+to+full-time+opportunities" alt="Typing SVG" />
-</a>
 
 <br/><br/>
 
-<a href="https://github.com/mitarthpathak/mitarth">
+<a href="https://mitarth.vercel.app">
   <img src="https://img.shields.io/badge/PORTFOLIO-6C11FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/mitarth-pathak">
@@ -31,42 +28,12 @@
 
 <div align="center">
 
-<img src="./assets/whoami-card.svg" width="100%"/>
+<img src="./assets/ .svg" width="100%"/>
 
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-Currently working as a **Backend Developer (Spring Boot)** — still learning, still shipping. Comfortable with back-end design and Spring Boot fundamentals.
-
-Intern at **Craftory Studio**, a Jaipur-based creative/digital growth startup, as a **Web Developer** — engaging with clients on the tech side. Still actively hunting for a **full-time role**, so if you're hiring, let's talk 👇
-
-</td>
-<td width="40%" valign="center" align="center">
-
-<img src="https://github.com/mitarthpathak.png" width="220" style="border-radius:50%"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🟢_Open_to_Work-success?style=for-the-badge"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6c11ff&height=2&width=100%25" width="100%"/>
-
-## 📈 Dashboard
-
-<div align="center">
-
-<img src="./assets/dashboard-card.svg" width="100%"/>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6c11ff&height=2&width=100%25" width="100%"/>
 
