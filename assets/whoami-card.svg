@@ -1,0 +1,80 @@
+<svg width="900" height="560" viewBox="0 0 900 560" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="50%" stop-color="#f472b6"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+    <filter id="cardGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="560" fill="#0a0e17"/>
+
+  <!-- small tab above window -->
+  <text x="10" y="26" font-family="Consolas, Menlo, monospace" font-weight="bold" font-size="18" fill="#e5e7eb">&gt; whoami</text>
+
+  <!-- window -->
+  <rect x="10" y="42" width="880" height="500" rx="12" fill="none" stroke="url(#borderGrad)" stroke-width="1.5" filter="url(#cardGlow)"/>
+  <rect x="10" y="42" width="880" height="500" rx="12" fill="#0b0f1a" stroke="url(#borderGrad)" stroke-width="1.5"/>
+
+  <!-- titlebar -->
+  <rect x="10" y="42" width="880" height="36" rx="12" fill="#10162a"/>
+  <rect x="10" y="60" width="880" height="18" fill="#10162a"/>
+  <circle cx="32" cy="60" r="6" fill="#ff5f56"/>
+  <circle cx="52" cy="60" r="6" fill="#ffbd2e"/>
+  <circle cx="72" cy="60" r="6" fill="#27c93f"/>
+  <text x="96" y="65" font-family="Consolas, Menlo, monospace" font-size="13" fill="#8b96a8">mitarth@portfolio: ~/whoami</text>
+  <circle cx="862" cy="60" r="4" fill="#4ade80"/>
+
+  <!-- body -->
+  <g font-family="Consolas, Menlo, monospace" font-size="15">
+    <text x="34" y="112" fill="#4ade80">&gt; whoami</text>
+
+    <text x="34" y="140"><tspan fill="#67e8f9">name</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#e5e7eb">Mitarth Pathak</tspan></text>
+    <text x="34" y="164"><tspan fill="#67e8f9">location</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#e5e7eb">Jaipur, Rajasthan, India</tspan></text>
+    <text x="34" y="188"><tspan fill="#67e8f9">education</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#e5e7eb">B.Tech CSE — Arya College of Engg. &amp; Tech. (RTU Kota)</tspan></text>
+    <text x="34" y="212"><tspan fill="#67e8f9">currently_building</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#e5e7eb">Backend systems with Spring Boot &amp; JWT</tspan></text>
+    <text x="34" y="236"><tspan fill="#67e8f9">status</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#fbbf24">Interning @ Craftory Studio — open to full-time</tspan></text>
+
+    <line x1="34" y1="256" x2="866" y2="256" stroke="#1f2937" stroke-width="1"/>
+
+    <text x="34" y="288" fill="#4ade80">&gt; cat mitarth.config.ts</text>
+    <text x="34" y="312" fill="#64748b">// mitarth.config.ts</text>
+    <text x="34" y="336"><tspan fill="#f472b6">const</tspan><tspan fill="#e5e7eb"> mitarth = {</tspan></text>
+    <text x="52" y="360"><tspan fill="#67e8f9">focus</tspan><tspan fill="#e5e7eb">: [</tspan><tspan fill="#fbbf24">"Backend Development"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#fbbf24">"Spring Security"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#fbbf24">"API Design"</tspan><tspan fill="#e5e7eb">],</tspan></text>
+    <text x="52" y="384"><tspan fill="#67e8f9">languages</tspan><tspan fill="#e5e7eb">: [</tspan><tspan fill="#fbbf24">"Java"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#fbbf24">"Python"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#fbbf24">"JavaScript"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#fbbf24">"C++"</tspan><tspan fill="#e5e7eb">],</tspan></text>
+    <text x="52" y="408"><tspan fill="#67e8f9">daily</tspan><tspan fill="#e5e7eb">: [</tspan><tspan fill="#fbbf24">"Spring Boot"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#fbbf24">"PostgreSQL"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#fbbf24">"React"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#fbbf24">"Git"</tspan><tspan fill="#e5e7eb">],</tspan></text>
+    <text x="52" y="432"><tspan fill="#67e8f9">mood</tspan><tspan fill="#e5e7eb">: </tspan><tspan fill="#fbbf24">"Ship first, theorize later."</tspan><tspan fill="#e5e7eb">,</tspan></text>
+    <text x="34" y="456"><tspan fill="#e5e7eb">} </tspan><tspan fill="#f472b6">as const</tspan><tspan fill="#e5e7eb">;</tspan></text>
+    <text x="34" y="480"><tspan fill="#f472b6">export default</tspan><tspan fill="#e5e7eb"> mitarth;</tspan></text>
+
+    <line x1="34" y1="500" x2="866" y2="500" stroke="#1f2937" stroke-width="1"/>
+
+    <text x="34" y="524" fill="#4ade80">&gt; gh focus --me</text>
+  </g>
+
+  <!-- pill badges -->
+  <g font-family="Consolas, Menlo, monospace" font-size="13">
+    <rect x="34" y="536" width="150" height="26" rx="13" fill="#151b2e" stroke="#a78bfa" stroke-width="1.2"/>
+    <text x="109" y="553" fill="#c4b5fd" text-anchor="middle">BATCH 2025–29</text>
+
+    <rect x="196" y="536" width="150" height="26" rx="13" fill="#151b2e" stroke="#34d399" stroke-width="1.2"/>
+    <text x="271" y="553" fill="#6ee7b7" text-anchor="middle">ROLE Backend Dev</text>
+
+    <rect x="358" y="536" width="150" height="26" rx="13" fill="#151b2e" stroke="#f472b6" stroke-width="1.2"/>
+    <text x="433" y="553" fill="#f9a8d4" text-anchor="middle">STACK Spring Boot</text>
+
+    <rect x="520" y="536" width="160" height="26" rx="13" fill="#151b2e" stroke="#60a5fa" stroke-width="1.2"/>
+    <text x="600" y="553" fill="#93c5fd" text-anchor="middle">STATUS Open to Work</text>
+
+    <rect x="692" y="536" width="80" height="26" rx="13" fill="#151b2e" stroke="#22c55e" stroke-width="1.2"/>
+    <circle cx="712" cy="549" r="4" fill="#22c55e"/>
+    <text x="740" y="553" fill="#bbf7d0" text-anchor="middle">LIVE</text>
+  </g>
+</svg>

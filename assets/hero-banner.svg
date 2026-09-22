@@ -1,0 +1,57 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c084fc"/>
+      <stop offset="50%" stop-color="#f472b6"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="220" fill="#0a0e17"/>
+
+  <g fill="#ffffff">
+    <circle cx="42" cy="26" r="1.3" opacity="0.7"/>
+    <circle cx="120" cy="18" r="1" opacity="0.5"/>
+    <circle cx="210" cy="34" r="1.6" opacity="0.8"/>
+    <circle cx="300" cy="16" r="1" opacity="0.4"/>
+    <circle cx="365" cy="40" r="1.2" opacity="0.6"/>
+    <circle cx="430" cy="20" r="1.4" opacity="0.7"/>
+    <circle cx="500" cy="32" r="1" opacity="0.5"/>
+    <circle cx="560" cy="14" r="1.3" opacity="0.6"/>
+    <circle cx="630" cy="28" r="1" opacity="0.5"/>
+    <circle cx="700" cy="20" r="1.5" opacity="0.7"/>
+    <circle cx="760" cy="38" r="1" opacity="0.5"/>
+    <circle cx="820" cy="16" r="1.2" opacity="0.6"/>
+    <circle cx="860" cy="30" r="1" opacity="0.5"/>
+    <circle cx="70" cy="70" r="1" opacity="0.4"/>
+    <circle cx="820" cy="70" r="1.3" opacity="0.6"/>
+    <circle cx="850" cy="110" r="1" opacity="0.4"/>
+    <circle cx="60" cy="170" r="1.2" opacity="0.5"/>
+    <circle cx="600" cy="185" r="1" opacity="0.4"/>
+    <circle cx="740" cy="150" r="1.4" opacity="0.6"/>
+    <circle cx="480" cy="195" r="1" opacity="0.4"/>
+    <circle cx="200" cy="190" r="1.1" opacity="0.5"/>
+  </g>
+  <g fill="#e5e7eb" opacity="0.75" font-family="Consolas, Menlo, monospace" font-size="11">
+    <text x="480" y="24">✦</text>
+    <text x="770" y="95">✦</text>
+    <text x="90" y="120">✦</text>
+    <text x="660" y="60">✦</text>
+    <text x="330" y="185">✦</text>
+    <text x="810" y="180">✦</text>
+  </g>
+
+  <text x="42" y="42" font-family="Consolas, Menlo, monospace" font-size="14" fill="#4ade80">●</text>
+  <text x="60" y="42" font-family="Consolas, Menlo, monospace" font-size="14" fill="#8b96a8">mitarth-pathak <tspan fill="#4b5563">~/</tspan> github</text>
+
+  <text x="42" y="112" font-family="Verdana, Geneva, sans-serif" font-weight="bold" font-size="50" fill="url(#nameGrad)" filter="url(#glow)">Mitarth Pathak</text>
+
+  <text x="42" y="155" font-family="Consolas, Menlo, monospace" font-size="16" fill="#4ade80">&gt;<tspan fill="#cbd5e1" xml:space="preserve">  B.Tech CSE '29 · Jaipur, India</tspan></text>
+</svg>
