@@ -1,80 +1,92 @@
-<svg width="900" height="560" viewBox="0 0 900 560" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 560" width="850" height="560" font-family="&#39;Courier New&#39;, monospace">
   <defs>
-    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#a78bfa"/>
-      <stop offset="50%" stop-color="#f472b6"/>
-      <stop offset="100%" stop-color="#60a5fa"/>
-    </linearGradient>
-    <filter id="cardGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+    <radialGradient id="wmBg" cx="50%" cy="0%" r="100%">
+      <stop offset="0%" stop-color="#0f1320"></stop>
+      <stop offset="100%" stop-color="#0a0c12"></stop>
+    </radialGradient>
   </defs>
-
-  <rect width="900" height="560" fill="#0a0e17"/>
-
-  <!-- small tab above window -->
-  <text x="10" y="26" font-family="Consolas, Menlo, monospace" font-weight="bold" font-size="18" fill="#e5e7eb">&gt; whoami</text>
-
-  <!-- window -->
-  <rect x="10" y="42" width="880" height="500" rx="12" fill="none" stroke="url(#borderGrad)" stroke-width="1.5" filter="url(#cardGlow)"/>
-  <rect x="10" y="42" width="880" height="500" rx="12" fill="#0b0f1a" stroke="url(#borderGrad)" stroke-width="1.5"/>
-
-  <!-- titlebar -->
-  <rect x="10" y="42" width="880" height="36" rx="12" fill="#10162a"/>
-  <rect x="10" y="60" width="880" height="18" fill="#10162a"/>
-  <circle cx="32" cy="60" r="6" fill="#ff5f56"/>
-  <circle cx="52" cy="60" r="6" fill="#ffbd2e"/>
-  <circle cx="72" cy="60" r="6" fill="#27c93f"/>
-  <text x="96" y="65" font-family="Consolas, Menlo, monospace" font-size="13" fill="#8b96a8">mitarth@portfolio: ~/whoami</text>
-  <circle cx="862" cy="60" r="4" fill="#4ade80"/>
-
-  <!-- body -->
-  <g font-family="Consolas, Menlo, monospace" font-size="15">
-    <text x="34" y="112" fill="#4ade80">&gt; whoami</text>
-
-    <text x="34" y="140"><tspan fill="#67e8f9">name</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#e5e7eb">Mitarth Pathak</tspan></text>
-    <text x="34" y="164"><tspan fill="#67e8f9">location</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#e5e7eb">Jaipur, Rajasthan, India</tspan></text>
-    <text x="34" y="188"><tspan fill="#67e8f9">education</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#e5e7eb">B.Tech CSE — Arya College of Engg. &amp; Tech. (RTU Kota)</tspan></text>
-    <text x="34" y="212"><tspan fill="#67e8f9">currently_building</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#e5e7eb">Backend systems with Spring Boot &amp; JWT</tspan></text>
-    <text x="34" y="236"><tspan fill="#67e8f9">status</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#fbbf24">Interning @ Craftory Studio — open to full-time</tspan></text>
-
-    <line x1="34" y1="256" x2="866" y2="256" stroke="#1f2937" stroke-width="1"/>
-
-    <text x="34" y="288" fill="#4ade80">&gt; cat mitarth.config.ts</text>
-    <text x="34" y="312" fill="#64748b">// mitarth.config.ts</text>
-    <text x="34" y="336"><tspan fill="#f472b6">const</tspan><tspan fill="#e5e7eb"> mitarth = {</tspan></text>
-    <text x="52" y="360"><tspan fill="#67e8f9">focus</tspan><tspan fill="#e5e7eb">: [</tspan><tspan fill="#fbbf24">"Backend Development"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#fbbf24">"Spring Security"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#fbbf24">"API Design"</tspan><tspan fill="#e5e7eb">],</tspan></text>
-    <text x="52" y="384"><tspan fill="#67e8f9">languages</tspan><tspan fill="#e5e7eb">: [</tspan><tspan fill="#fbbf24">"Java"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#fbbf24">"Python"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#fbbf24">"JavaScript"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#fbbf24">"C++"</tspan><tspan fill="#e5e7eb">],</tspan></text>
-    <text x="52" y="408"><tspan fill="#67e8f9">daily</tspan><tspan fill="#e5e7eb">: [</tspan><tspan fill="#fbbf24">"Spring Boot"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#fbbf24">"PostgreSQL"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#fbbf24">"React"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#fbbf24">"Git"</tspan><tspan fill="#e5e7eb">],</tspan></text>
-    <text x="52" y="432"><tspan fill="#67e8f9">mood</tspan><tspan fill="#e5e7eb">: </tspan><tspan fill="#fbbf24">"Ship first, theorize later."</tspan><tspan fill="#e5e7eb">,</tspan></text>
-    <text x="34" y="456"><tspan fill="#e5e7eb">} </tspan><tspan fill="#f472b6">as const</tspan><tspan fill="#e5e7eb">;</tspan></text>
-    <text x="34" y="480"><tspan fill="#f472b6">export default</tspan><tspan fill="#e5e7eb"> mitarth;</tspan></text>
-
-    <line x1="34" y1="500" x2="866" y2="500" stroke="#1f2937" stroke-width="1"/>
-
-    <text x="34" y="524" fill="#4ade80">&gt; gh focus --me</text>
+  <rect width="850" height="560" fill="#0d1117"></rect>
+  <rect x="5" y="5" width="840" height="550" rx="14" fill="url(#wmBg)" stroke="#232b38" stroke-width="1.2"></rect>
+  <rect x="5" y="5" width="840" height="37" rx="14" fill="#11151c"></rect>
+  <rect x="5" y="24" width="840" height="18" fill="#11151c"></rect>
+  <text x="22" y="27" font-size="13" font-weight="700" fill="#50fa7b">&gt;_</text>
+  <text x="44" y="27" font-size="11.5" letter-spacing="0.4" fill="#7a8694">mitarth@portfolio: ~/whoami</text>
+  <g stroke="#9aa4b2" stroke-width="1.4" stroke-linecap="round">
+    <line x1="757" y1="24" x2="771" y2="24"></line>
+    <rect x="788" y="17" width="13" height="13" rx="1.5" fill="none"></rect>
+    <g stroke="#ff6b6b"><line x1="818" y1="17" x2="831" y2="30"></line><line x1="831" y1="17" x2="818" y2="30"></line></g>
   </g>
-
-  <!-- pill badges -->
-  <g font-family="Consolas, Menlo, monospace" font-size="13">
-    <rect x="34" y="536" width="150" height="26" rx="13" fill="#151b2e" stroke="#a78bfa" stroke-width="1.2"/>
-    <text x="109" y="553" fill="#c4b5fd" text-anchor="middle">BATCH 2025–29</text>
-
-    <rect x="196" y="536" width="150" height="26" rx="13" fill="#151b2e" stroke="#34d399" stroke-width="1.2"/>
-    <text x="271" y="553" fill="#6ee7b7" text-anchor="middle">ROLE Backend Dev</text>
-
-    <rect x="358" y="536" width="150" height="26" rx="13" fill="#151b2e" stroke="#f472b6" stroke-width="1.2"/>
-    <text x="433" y="553" fill="#f9a8d4" text-anchor="middle">STACK Spring Boot</text>
-
-    <rect x="520" y="536" width="160" height="26" rx="13" fill="#151b2e" stroke="#60a5fa" stroke-width="1.2"/>
-    <text x="600" y="553" fill="#93c5fd" text-anchor="middle">STATUS Open to Work</text>
-
-    <rect x="692" y="536" width="80" height="26" rx="13" fill="#151b2e" stroke="#22c55e" stroke-width="1.2"/>
-    <circle cx="712" cy="549" r="4" fill="#22c55e"/>
-    <text x="740" y="553" fill="#bbf7d0" text-anchor="middle">LIVE</text>
-  </g>
-</svg>
+  <line x1="5" y1="42" x2="845" y2="42" stroke="#1b2230" stroke-width="1"></line>
+  <g font-size="13.5">
+    <g opacity="0" transform="translate(8,0)">
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.0s" fill="freeze"></animate>
+      <animateTransform attributeName="transform" type="translate" values="8 0;0 0" dur="0.3s" begin="0.0s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"></animateTransform>
+      <text x="26" y="66" fill="#50fa7b" font-weight="700">&#10095;</text>
+      <text x="46" y="66" fill="#c6cedb">whoami</text>
+    </g>
+    <g opacity="0" transform="translate(8,0)">
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.30s" fill="freeze"></animate>
+      <animateTransform attributeName="transform" type="translate" values="8 0;0 0" dur="0.3s" begin="0.30s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"></animateTransform>
+      <text x="46" y="90" fill="#8be9fd">name<tspan fill="#6272a4">:</tspan> <tspan fill="#f8f8f2">Mitarth Pathak</tspan></text>
+    </g>
+    <g opacity="0" transform="translate(8,0)">
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.46s" fill="freeze"></animate>
+      <animateTransform attributeName="transform" type="translate" values="8 0;0 0" dur="0.3s" begin="0.46s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"></animateTransform>
+      <text x="46" y="111" fill="#8be9fd">location<tspan fill="#6272a4">:</tspan> <tspan fill="#f8f8f2">Jaipur, Rajasthan, India</tspan></text>
+    </g>
+    <g opacity="0" transform="translate(8,0)">
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.62s" fill="freeze"></animate>
+      <animateTransform attributeName="transform" type="translate" values="8 0;0 0" dur="0.3s" begin="0.62s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"></animateTransform>
+      <text x="46" y="132" fill="#8be9fd">education<tspan fill="#6272a4">:</tspan> <tspan fill="#f8f8f2">B.Tech CSE &#8212; Arya College of Engg. &amp; Tech. (RTU Kota)</tspan></text>
+    </g>
+    <g opacity="0" transform="translate(8,0)">
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.78s" fill="freeze"></animate>
+      <animateTransform attributeName="transform" type="translate" values="8 0;0 0" dur="0.3s" begin="0.78s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"></animateTransform>
+      <text x="46" y="153" fill="#8be9fd">currently_building<tspan fill="#6272a4">:</tspan> <tspan fill="#f8f8f2">Backend systems with Spring Boot &amp; JWT</tspan></text>
+    </g>
+    <g opacity="0" transform="translate(8,0)">
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.94s" fill="freeze"></animate>
+      <animateTransform attributeName="transform" type="translate" values="8 0;0 0" dur="0.3s" begin="0.94s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"></animateTransform>
+      <text x="46" y="174" fill="#8be9fd">status<tspan fill="#6272a4">:</tspan> <tspan fill="#f8f8f2">Interning @ Craftory Studio &#8212; open to full-time opportunities.</tspan></text>
+    </g>
+    <line x1="46" y1="190" x2="804" y2="190" stroke="#1b2230" stroke-width="1" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.12s" fill="freeze"></animate>
+    </line>
+    <g opacity="0" transform="translate(8,0)">
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.20s" fill="freeze"></animate>
+      <animateTransform attributeName="transform" type="translate" values="8 0;0 0" dur="0.3s" begin="1.20s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"></animateTransform>
+      <text x="26" y="216" fill="#50fa7b" font-weight="700">&#10095;</text>
+      <text x="46" y="216" fill="#c6cedb">cat mitarth.config.ts</text>
+    </g>
+    <g opacity="0" transform="translate(8,0)">
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.40s" fill="freeze"></animate>
+      <animateTransform attributeName="transform" type="translate" values="8 0;0 0" dur="0.3s" begin="1.40s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"></animateTransform>
+      <text x="46" y="242" fill="#6272a4">// mitarth.config.ts</text>
+    </g>
+    <g opacity="0" transform="translate(8,0)">
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.56s" fill="freeze"></animate>
+      <animateTransform attributeName="transform" type="translate" values="8 0;0 0" dur="0.3s" begin="1.56s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"></animateTransform>
+      <text x="46" y="263" fill="#ff79c6">const <tspan fill="#f8f8f2">mitarth</tspan> <tspan fill="#ff79c6">=</tspan> <tspan fill="#f8f8f2">{</tspan></text>
+    </g>
+    <g opacity="0" transform="translate(8,0)">
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.72s" fill="freeze"></animate>
+      <animateTransform attributeName="transform" type="translate" values="8 0;0 0" dur="0.3s" begin="1.72s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"></animateTransform>
+      <text x="66" y="284" fill="#8be9fd">focus<tspan fill="#6272a4">:</tspan></text>
+      <text x="180" y="284" fill="#f8f8f2">[<tspan fill="#50fa7b">&quot;Backend Development&quot;</tspan>, <tspan fill="#50fa7b">&quot;Spring Security&quot;</tspan>, <tspan fill="#50fa7b">&quot;API Design&quot;</tspan>],</text>
+    </g>
+    <g opacity="0" transform="translate(8,0)">
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.88s" fill="freeze"></animate>
+      <animateTransform attributeName="transform" type="translate" values="8 0;0 0" dur="0.3s" begin="1.88s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"></animateTransform>
+      <text x="66" y="305" fill="#8be9fd">languages<tspan fill="#6272a4">:</tspan></text>
+      <text x="180" y="305" fill="#f8f8f2">[<tspan fill="#50fa7b">&quot;Java&quot;</tspan>, <tspan fill="#50fa7b">&quot;Python&quot;</tspan>, <tspan fill="#50fa7b">&quot;JavaScript&quot;</tspan>, <tspan fill="#50fa7b">&quot;C++&quot;</tspan>],</text>
+    </g>
+    <g opacity="0" transform="translate(8,0)">
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="2.04s" fill="freeze"></animate>
+      <animateTransform attributeName="transform" type="translate" values="8 0;0 0" dur="0.3s" begin="2.04s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"></animateTransform>
+      <text x="66" y="326" fill="#8be9fd">daily<tspan fill="#6272a4">:</tspan></text>
+      <text x="180" y="326" fill="#f8f8f2">[<tspan fill="#50fa7b">&quot;Spring Boot&quot;</tspan>, <tspan fill="#50fa7b">&quot;PostgreSQL&quot;</tspan>, <tspan fill="#50fa7b">&quot;React&quot;</tspan>, <tspan fill="#50fa7b">&quot;Git&quot;</tspan>],</text>
+    </g>
+    <g opacity="0" transform="translate(8,0)">
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="2.20s" fill="freeze"></animate>
+      <animateTransform attributeName="transform" type="translate" values="8 0;0 0" dur="0.3s" begin="2.20s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"></animateTransform>
+      <text x="66" y="347" fill="#8be9fd">mood<tspan fill="#6272a4">:</tspan></text>

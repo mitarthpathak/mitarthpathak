@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="./assets/ .svg" width="100%"/>
+<img src="./assets/whoami-card.svg" width="100%"/>
 
 </div>
 
