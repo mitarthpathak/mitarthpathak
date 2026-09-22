@@ -32,8 +32,6 @@
 
 <img src="./assets/greeting-banner.svg" width="100%"/>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,idea,postman"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6c11ff&height=2&width=100%25" width="100%"/>

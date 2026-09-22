@@ -1,4 +1,4 @@
-<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="380" viewBox="0 0 900 380" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <pattern id="triGrid" width="46" height="40" patternUnits="userSpaceOnUse">
       <path d="M23 0 L46 40 L0 40 Z" fill="none" stroke="#1c2a52" stroke-width="1"/>
@@ -9,8 +9,8 @@
     </linearGradient>
   </defs>
 
-  <rect width="900" height="320" fill="url(#bgGrad)"/>
-  <rect width="900" height="320" fill="url(#triGrid)" opacity="0.5"/>
+  <rect width="900" height="380" fill="url(#bgGrad)"/>
+  <rect width="900" height="380" fill="url(#triGrid)" opacity="0.5"/>
 
   <rect x="0" y="0" width="900" height="34" fill="#05070f"/>
   <text x="20" y="22" font-family="Consolas, Menlo, monospace" font-size="14" font-weight="bold" fill="#ffffff">Hi there 👋, my name is Mitarth Pathak</text>
@@ -26,8 +26,32 @@
 
   <text x="24" y="245" font-family="Consolas, Menlo, monospace" font-size="15" fill="#8fd694">Tools:</text>
 
+  <!-- tool/language/framework/db icons grid -->
+  <g>
+    <image href="https://skillicons.dev/icons?i=bash" x="24" y="255" width="44" height="44"/>
+    <image href="https://skillicons.dev/icons?i=python" x="76" y="255" width="44" height="44"/>
+    <image href="https://skillicons.dev/icons?i=java" x="128" y="255" width="44" height="44"/>
+    <image href="https://skillicons.dev/icons?i=cpp" x="180" y="255" width="44" height="44"/>
+    <image href="https://skillicons.dev/icons?i=typescript" x="232" y="255" width="44" height="44"/>
+    <image href="https://skillicons.dev/icons?i=rust" x="284" y="255" width="44" height="44"/>
+    <image href="https://skillicons.dev/icons?i=html" x="336" y="255" width="44" height="44"/>
+    <image href="https://skillicons.dev/icons?i=css" x="388" y="255" width="44" height="44"/>
+    <image href="https://skillicons.dev/icons?i=js" x="440" y="255" width="44" height="44"/>
+    <image href="https://skillicons.dev/icons?i=spring" x="492" y="255" width="44" height="44"/>
+
+    <image href="https://skillicons.dev/icons?i=postgres" x="24" y="307" width="44" height="44"/>
+    <image href="https://skillicons.dev/icons?i=react" x="76" y="307" width="44" height="44"/>
+    <image href="https://skillicons.dev/icons?i=nextjs" x="128" y="307" width="44" height="44"/>
+    <image href="https://skillicons.dev/icons?i=git" x="180" y="307" width="44" height="44"/>
+    <image href="https://skillicons.dev/icons?i=github" x="232" y="307" width="44" height="44"/>
+    <image href="https://skillicons.dev/icons?i=docker" x="284" y="307" width="44" height="44"/>
+    <image href="https://skillicons.dev/icons?i=linux" x="336" y="307" width="44" height="44"/>
+    <image href="https://skillicons.dev/icons?i=vscode" x="388" y="307" width="44" height="44"/>
+    <image href="https://skillicons.dev/icons?i=kali" x="440" y="307" width="44" height="44"/>
+  </g>
+
   <!-- generic waving coder avatar -->
-  <g transform="translate(700,60)">
+  <g transform="translate(640,50)">
     <!-- waving arm (behind body) -->
     <path d="M120 90 Q168 40 158 -6" stroke="#2f6f6b" stroke-width="26" stroke-linecap="round" fill="none"/>
     <g transform="translate(158,-14) rotate(18)">
