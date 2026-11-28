@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./greeting.png" width="100%"/>
+<img src="./Mitarth Pathak Developer Introduction.png" width="100%"/>
 
 <br/>
 
